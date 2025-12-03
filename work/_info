@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11e vcom 2024.3 2024.09, Sep 10 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/hosam/Desktop/traffic_light
+T_opt
+!s110 1764675304
+V^ielWh`nZ9mXQUc:NAXYK0
+04 15 10 work tb_trafficlight behavioral 1
+=1-000ae431a4f1-692ecee5-b89cd-67b4
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U2 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2024.3;79
+Etb_trafficlight
+Z2 w1764675192
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R1
+Z5 8tb_TrafficLight.vhdl
+Z6 Ftb_TrafficLight.vhdl
+l0
+L4 1
+VcLjLEjRU7[Mz8F19a[nYR1
+!s100 TIEH9T<7G7GGGkoDmBaBB3
+Z7 OL;C;2024.3;79
+32
+Z8 !s110 1764675297
+!i10b 1
+Z9 !s108 1764675296.000000
+Z10 !s90 -reportprogress|300|cont.vhdl|tb_TrafficLight.vhdl|
+Z11 !s107 tb_TrafficLight.vhdl|cont.vhdl|
+!i113 0
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+DPx3 std 3 env 0 22 g[fj8WJKOa<0Y`zWY3UD70
+Z13 DEx4 work 12 trafficlight 0 22 Wb5^II5KoRC_;h<9B^3=L2
+R3
+R4
+DEx4 work 15 tb_trafficlight 0 22 cLjLEjRU7[Mz8F19a[nYR1
+!i122 0
+l27
+L12 147
+V@iEeRH5]_4KYY:=;aS8ed1
+!s100 hDb6]EQP4BA8L3I1e>2bL0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Etrafficlight
+Z14 w1764674986
+R3
+R4
+!i122 0
+R1
+Z15 8cont.vhdl
+Z16 Fcont.vhdl
+l0
+L4 1
+VWb5^II5KoRC_;h<9B^3=L2
+!s100 GbDkiNVk56n0WL3?OKT`n1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Abehavioral
+R3
+R4
+R13
+!i122 0
+l19
+L11 73
+Vl>TCcKBXI`]0m87VzeQ4A2
+!s100 mBn3mCK;oJzMVam]5nK9[3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
