@@ -102,6 +102,3 @@ Reset at any time forces the controller back to Red immediately.
 
 The testbench prints detailed information and ultimately confirms correct behavior.
 
-Conclusion
-
-This project delivers a complete and validated VHDL traffic light controller. The included self-checking testbench ensures correct timing, state sequencing, and response to clock enable and reset. The design is clean, modular, and test-driven, making it suitable for learning, assignments, and real digital design environments.
